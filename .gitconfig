@@ -1,5 +1,10 @@
 [user]
-	email = ayoung@thewulf.org
-	name = Andrew Young
+    # Please adapt and uncomment the following lines:
+    name = andrew young
+    email = andrew.young@castlabs.com
+[github]
+    user = andrewyoung1991
+[core]
+    editor = vi
 [credential]
 	helper = store
