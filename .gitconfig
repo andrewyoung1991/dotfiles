@@ -1,0 +1,5 @@
+[user]
+	email = ayoung@thewulf.org
+	name = Andrew Young
+[credential]
+	helper = store
